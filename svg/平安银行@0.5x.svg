@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>平安银行@0.5x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="24*24" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="平安银行" sketch:type="MSArtboardGroup">
+            <g sketch:type="MSLayerGroup" transform="translate(0.000000, 2.000000)">
+                <path d="M14.478358,0.544 C14.288358,0.214 13.992358,0 13.624358,0 L10.699358,0 C10.330358,0 10.034358,0.214 9.84735802,0.544 L0.631358022,18.698 C0.323358022,19.284 0.584358022,19.634 1.12935802,19.634 L4.05035802,19.634 C4.47635802,19.634 4.63635802,19.525 4.84935802,19.118 L12.162358,4.513 L19.473358,19.118 C19.686358,19.525 19.846358,19.634 20.272358,19.634 L23.193358,19.634 C23.737358,19.634 24.001358,19.284 23.693358,18.698 L14.478358,0.544 L14.478358,0.544 Z" id="Fill-6-Copy" fill="#EB5404" sketch:type="MSShapeGroup"></path>
+                <path d="M14.998,14 L9.968,14 C9.708,14 9.5,14.208 9.5,14.466 L9.5,19.388 C9.5,19.649 9.708,19.858 9.968,19.858 L14.998,19.858 C15.258,19.858 15.466,19.649 15.466,19.388 L15.466,14.466 C15.466,14.208 15.258,14 14.998,14" id="Fill-7-Copy" fill="#005D3B" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
